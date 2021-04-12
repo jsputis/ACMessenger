@@ -4,15 +4,13 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .box{
-    width: 300px;
+    width: 700px;
     margin: 150px auto;
     height: auto;
     padding: 10px 5px;
+    border:1px solid black;
 }
-.box:hover{
-    box-shadow: 5px 10px 8px #d4cece;
-    transition: all .5s;
-}
+
 .box .header-logo{
     display: flex;
     justify-content: center;
